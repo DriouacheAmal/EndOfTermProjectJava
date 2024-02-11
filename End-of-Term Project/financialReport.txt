@@ -1,0 +1,6 @@
+Financial Report
+---------------
+Total Income: 0.0
+Total Expenses: 0.0
+Net Savings: 0.0
+Expense Breakdown:

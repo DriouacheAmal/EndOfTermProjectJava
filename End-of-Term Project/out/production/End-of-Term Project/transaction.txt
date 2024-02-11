@@ -1,0 +1,5 @@
+2024-02-10,income,Salary,30000.00
+2024-02-09,expense,Food,1500.00
+2024-02-08,expense,Utilities,1000.00
+2024-02-07,income,Investment,5000.00
+2024-02-06,expense,Transportation,500.00
